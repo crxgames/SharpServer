@@ -1,0 +1,5 @@
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\SharpServerLib\bin\Debug\SharpServerLib.dll
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\SharpServerLib\bin\Debug\SharpServerLib.pdb
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\SharpServerLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\SharpServerLib\obj\Debug\SharpServerLib.dll
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\SharpServerLib\obj\Debug\SharpServerLib.pdb

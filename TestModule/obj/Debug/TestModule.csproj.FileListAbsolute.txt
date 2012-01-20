@@ -1,0 +1,11 @@
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\TestModule\bin\Debug\TestModule.dll
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\TestModule\bin\Debug\TestModule.pdb
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\TestModule\bin\Debug\ModuleInterface.dll
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\TestModule\bin\Debug\ModuleInterface.pdb
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\TestModule\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\TestModule\obj\Debug\TestModule.dll
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\TestModule\obj\Debug\TestModule.pdb
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\TestModule\bin\Debug\SharpServerLib.dll
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\TestModule\bin\Debug\SharpServerLib.pdb
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\SharpServer\bin\Debug\TestModule.dll
+C:\Documents and Settings\cmays\My Documents\Visual Studio 2008\Projects\SharpServer\SharpServer\bin\Debug\TestModule.pdb

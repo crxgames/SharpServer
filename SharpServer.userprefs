@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SharpServer/HttpServer.cs">
+    <Files>
+      <File FileName="SharpServerLib/HttpInfo.cs" Line="1" Column="1" />
+      <File FileName="TestModule/TestModule.cs" Line="29" Column="72" />
+      <File FileName="SharpServer/httpd.conf" Line="4" Column="1" />
+      <File FileName="SharpServer/HttpServer.cs" Line="414" Column="26" />
+      <File FileName="SharpServer/ModuleServices.cs" Line="48" Column="10" />
+      <File FileName="ModuleInterface/Module.cs" Line="26" Column="1" />
+      <File FileName="SharpServer/Program.cs" Line="13" Column="13" />
+      <File FileName="SharpServer/mime.types" Line="1" Column="1" />
+      <File FileName="SharpServer/CallbackSubSystem.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
